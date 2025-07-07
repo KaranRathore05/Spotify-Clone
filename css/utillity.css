@@ -1,0 +1,19 @@
+.border {
+    border: 2px  black;
+    margin: 3px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+.p-1{
+    padding: 30px;
+}
