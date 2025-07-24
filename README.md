@@ -11,5 +11,5 @@ This project took me **16 hours** of non-stop coding, pixel pushing, and playlis
 - 🎨 HTML + CSS  
 - 🎮 JavaScript   
 - 🔥 Firebase Hosting  
-
+- songs are not playable right now
 
